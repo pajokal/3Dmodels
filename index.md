@@ -1,4 +1,4 @@
-# 3Dmodels<img width="197" height="255" alt="obraz" src="https://github.com/user-attachments/assets/38b8fc36-a681-4824-a405-fe513dd03cc2" />
+# 3Dmodels
 
 Models for 3D printer<br>
 
