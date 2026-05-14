@@ -1,7 +1,7 @@
 # 3Dmodels
 Models for 3D printer<br>
 
-<div style="border: 1px solid black; padding: 12px;">
+<div style="border: 1px solid black; padding: 12px; width: 300px">
   <a href="./serce.stl" download style="display:inline-block;padding:10px 16px;background:#2563eb;color:white;text-decoration:none;border-radius:6px;">
   download STL
 </a><br>
